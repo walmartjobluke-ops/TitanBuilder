@@ -1,4 +1,3 @@
-# TitanBuilder
 #JSON-RPC Endpoints
 #Interact directly with the Flashbots RPC endpoint
 #Advanced users can interact with the RPC endpoint at relay.flashbots.net, or one of the testnet URLs below.
